@@ -8,3 +8,4 @@ println str.class.name
 //注意：不能用map.builder等类型
 //为保险起见，请使用str.getClass().name
 println(123)
+println(321)
