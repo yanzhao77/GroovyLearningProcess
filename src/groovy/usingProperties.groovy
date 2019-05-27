@@ -9,3 +9,4 @@ println str.class.name
 //为保险起见，请使用str.getClass().name
 println(123)
 println(321)
+
