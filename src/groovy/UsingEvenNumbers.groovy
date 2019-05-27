@@ -29,6 +29,5 @@ def sqr(n) {
     }
     squared
 }
-
 println("sum of even numbers from 1 to 10 is ${sqr(10)}")
 
