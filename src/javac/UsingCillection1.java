@@ -16,7 +16,5 @@ public class UsingCillection1 {
         System.out.println("Number of elements is:"+lst.size());
         System.out.println("Number of elements is:"+col.size());
 
-
     }
-
 }
