@@ -10,7 +10,6 @@ def totalSelectValues(n, clouse) {
     }
     total
 }
-
 println("total of even numbers from 1 to 10 is")
 println(totalSelectValues(10) {
     it % 2 == 0
